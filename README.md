@@ -87,3 +87,13 @@ Bu bot aşağıdaki tarihi ve doğal yapıları tanıyabilir:
 🏛 Ani Harabeleri (Kars)
 
 🏔 Ağrı Dağı (Ağrı)
+
+
+📜 Lisans
+
+Bu proje açık kaynaklıdır ve MIT Lisansı ile paylaşılmaktadır. Herkes geliştirmeye katkıda bulunabilir!
+
+📩 Geri bildirim ve önerileriniz için şu e-posta adresine yazabilirsiniz:
+✉️ [doruk.brk04@gmail.com]
+
+🎯 Geliştirmek veya sorun bildirmek için GitHub'da yıldız bırakmayı unutmayın! 🚀
